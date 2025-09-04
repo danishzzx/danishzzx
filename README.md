@@ -21,6 +21,6 @@ I specialize in modern web technologies and am proficient in the following stack
 I am actively open to new opportunities and collaborations. If you are looking for a dedicated and skilled developer to join your team or have a project you'd like to discuss, please feel free to reach out.
 
 **Contact:**
-You can reach me on WhatsApp at +1 (226) 484-9967.
+You can reach me on WhatsApp at +91 7411351191
 
 ---
