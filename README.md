@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a passionate and results-driven **Full-stack Developer** with a proven track record of building robust and scalable web applications. My expertise lies in crafting efficient and user-centric solutions from concept to deployment. I am constantly seeking new challenges and opportunities to apply my skills and contribute to innovative projects.
+I am a passionate and results-driven **Full-stack Developer** with a proven track record of building robust and scalable web applications. My expertise lies in crafting efficient and user-centric solutions. I am constantly seeking new challenges and opportunities to leverage my skills to build high-quality web applications and contribute to innovative projects.
 
 ---
 
